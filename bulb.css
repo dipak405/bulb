@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(59, 74, 54);
+}
+.container{
+    margin: 100px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+button{
+    margin-top: 22px;
+    padding: 12px 23px;
+    font-family: monospace;
+    font-size: large;
+    cursor: pointer;
+    background-color: chartreuse
+    ;
+    color: beige;
+    
+    border-radius: 20px;
+}
+button:hover{
+    background-color: cyan;
+}
